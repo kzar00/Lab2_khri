@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,liblibDyn.so -o liblibDyn.so CMakeFiles/libDyn.dir/drandNumber50.c.o 

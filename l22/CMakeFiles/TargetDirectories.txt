@@ -1,0 +1,5 @@
+/home/user/Desktop/students/khri/l22/CMakeFiles/rebuild_cache.dir
+/home/user/Desktop/students/khri/l22/CMakeFiles/L2Cmake.dir
+/home/user/Desktop/students/khri/l22/CMakeFiles/staticLib.dir
+/home/user/Desktop/students/khri/l22/CMakeFiles/edit_cache.dir
+/home/user/Desktop/students/khri/l22/CMakeFiles/libDyn.dir

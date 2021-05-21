@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/L2Cmake.dir/main.c.o  -o L2Cmake -Wl,-rpath,/home/user/Desktop/students/khri/l22 libstaticLib.a liblibDyn.so 
